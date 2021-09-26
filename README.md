@@ -10,3 +10,4 @@ Ensure:
 3. message delivery notification (double tick like WhatsApp)
 4. message read notification (blue double tick like WhatsApp)
 
+Live Demo Link : https://read-receipts-demo.glitch.me/?chatChannel=chat-currency&readReceiptsChannel=readReceipt-currency&presenceChannel=presence-currency
